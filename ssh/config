@@ -1,0 +1,12 @@
+
+Host github.com
+    HostName github.com
+	User JianyongRen
+	Port 22
+	IdentityFile ~/.ssh/id_rsa_github
+
+Host gitlab.com
+    HostName gitlab.com
+	User JianyongRen
+	Port 22
+	IdentityFile ~/.ssh/id_rsa_gitlab

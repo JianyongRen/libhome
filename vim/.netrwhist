@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/disk/renjianyong/3798mv100/develop'
+let g:netrw_dirhist_2='/disk/renjianyong/swsqm/rapidjson/include'
+let g:netrw_dirhist_3='/disk/renjianyong/traceroute/src/libsupp'
+let g:netrw_dirhist_4='/disk/renjianyong/3798mv100/lite'
+let g:netrw_dirhist_5='/www/mediawiki-1.30.0_gerrit/extensions/LocalisationUpdate'
+let g:netrw_dirhist_6='/etc/apache2/sites-available'
+let g:netrw_dirhist_7='/home/renjianyong/docker-mediawiki-stack/distribution-files/nginx'
+let g:netrw_dirhist_8='/cygdrive/e/GitHub/libhome/.git'
